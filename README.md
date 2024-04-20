@@ -1,2 +1,0 @@
-# ClasePandas
-pandas
